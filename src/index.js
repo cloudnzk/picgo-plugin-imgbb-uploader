@@ -68,8 +68,8 @@ module.exports = (ctx) => {
         type: 'input',
         default: userConfig.Key,
         required: true,
-        message: 'Key',
-        alias: 'Key'
+        message: 'API key',
+        alias: 'API key'
       }
     ]
   }

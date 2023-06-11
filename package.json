@@ -1,12 +1,16 @@
 {
   "name": "picgo-plugin-imgbb-uploader",
-  "version": "1.0.0",
-  "description": "An uploader for Imgbb.",
+  "version": "1.0.1",
+  "description": "An PicGo plugin for Imgbb. ",
   "main": "src/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/cloudnzk/picgo-plugin-imgbb-uploader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudnzk/picgo-plugin-imgbb-uploader"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "patch": "npm version patch && git push origin master && git push origin --tags",
