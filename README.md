@@ -1,10 +1,10 @@
 ## picgo-plugin-imgbb-uploader
 
-### Introduction
-
 An PicGo plugin for [Imgbb](https://imgbb.com/). 
 
 Using this plugin, You can easily upload pictures to [Imgbb](https://imgbb.com/) in PicGo.
+
+
 
 ### How to use?
 
@@ -20,6 +20,8 @@ Your **API key** can be found in https://api.imgbb.com/
 
 3. Enjoy it！
 
+
+
 ### Acknowledgement
 
-This plugin is developed on the basis of [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user), thanks to the plugin author [xlzy520](https:/ /github.com/xlzy520).
+This plugin is developed on the basis of [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user), thanks to the plugin author [xlzy520](https://github.com/xlzy520)
