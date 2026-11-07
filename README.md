@@ -10,13 +10,13 @@ Using this plugin, You can easily upload pictures to [Imgbb](https://imgbb.com/)
 
 1. Search and install this plugin online
 
-![截屏2023-06-11 下午4.03.53](https://i.ibb.co/zxcG93R/2023-06-11-4-03-53.png)
+    ![截屏2023-06-11 下午4.03.53](https://i.ibb.co/zxcG93R/2023-06-11-4-03-53.png)
 
 2. Configure API key
 
-Your **API key** can be found in https://api.imgbb.com/
+    Your **API key** can be found in https://api.imgbb.com/
 
-![截屏2023-06-11 下午4.05.36](https://i.ibb.co/23XNzk7/2023-06-11-4-05-36.png)
+    ![截屏2023-06-11 下午4.05.36](https://i.ibb.co/23XNzk7/2023-06-11-4-05-36.png)
 
 3. Enjoy it！
 
